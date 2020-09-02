@@ -1,0 +1,53 @@
+{"input":" ","pos":15,"cell_type":"code","type":"cell","id":"a5dbff","kernel":"anaconda3"}
+{"input":" ","pos":17,"cell_type":"code","type":"cell","id":"c5a116","kernel":"anaconda3"}
+{"input":" ","pos":19,"cell_type":"code","type":"cell","id":"77b874","kernel":"anaconda3"}
+{"input":" ","pos":23,"cell_type":"code","type":"cell","id":"c83057","kernel":"anaconda3"}
+{"input":" ","pos":28,"cell_type":"code","type":"cell","id":"38d64f","kernel":"anaconda3"}
+{"input":" ","pos":32,"cell_type":"code","type":"cell","id":"5c25c2","kernel":"anaconda3"}
+{"input":" ","pos":35,"cell_type":"code","type":"cell","id":"9d8796","kernel":"anaconda3"}
+{"input":" ","pos":42,"cell_type":"code","type":"cell","id":"ec4802","kernel":"anaconda3"}
+{"input":" ","pos":44,"cell_type":"code","type":"cell","id":"eb9866","kernel":"anaconda3"}
+{"input":" ","pos":46,"cell_type":"code","type":"cell","id":"fa42d2","kernel":"anaconda3"}
+{"input":" ","pos":50,"cell_type":"code","type":"cell","id":"87cc18","kernel":"anaconda3"}
+{"output":{"0":{"text":"linear_regression_scheme.png\r\n","name":"stdout"}},"exec_count":1,"start":1516728825160,"input":"%ls ./images","state":"done","pos":10,"cell_type":"code","type":"cell","end":1516728825299,"id":"679799","kernel":"anaconda3"}
+{"type":"cell","id":"05d12e","pos":34,"input":"(text: 1 pt; code: 1 pt)","cell_type":"markdown"}
+{"type":"cell","id":"10d87c","pos":26,"input":" ","cell_type":"markdown"}
+{"type":"cell","id":"169ca9","pos":13,"input":"(text: 2 pts; code: 3 pts)","cell_type":"markdown"}
+{"type":"cell","id":"172a52","pos":36,"input":" ","cell_type":"markdown"}
+{"type":"cell","id":"1afad1","pos":7,"input":"(text: 4 pts; figure: 5 pts)","cell_type":"markdown"}
+{"type":"cell","id":"296967","pos":5,"input":" ","cell_type":"markdown"}
+{"type":"cell","id":"2a33f5","pos":8,"input":" ","cell_type":"markdown"}
+{"type":"cell","id":"341ec2","pos":20,"input":" ","cell_type":"markdown"}
+{"type":"cell","id":"3ac2bc","pos":25,"input":"(text: 1 pt; equation: 1 pt; code: 1 pt)","cell_type":"markdown"}
+{"type":"cell","id":"414a27","pos":4,"input":"(text: 1 pt)","cell_type":"markdown"}
+{"type":"cell","id":"49d9bd","pos":49,"input":" ","cell_type":"markdown"}
+{"type":"cell","id":"4a8d5d","pos":37,"input":"(text: 3 pts; equation: 4 pts; code: 3 pts)","cell_type":"markdown"}
+{"type":"cell","id":"4ed1c5","pos":27,"input":" ","cell_type":"markdown"}
+{"type":"cell","id":"5aa802","pos":12,"input":" ","cell_type":"markdown"}
+{"type":"cell","id":"5e5a86","pos":48,"input":"(text: 4 pts; equation: 4 pts; code: 1 pt)","cell_type":"markdown"}
+{"type":"cell","id":"5f8441","pos":45,"input":" ","cell_type":"markdown"}
+{"type":"cell","id":"6493a3","pos":3,"input":" ","cell_type":"markdown"}
+{"type":"cell","id":"6e2ad4","pos":40,"input":" ","cell_type":"markdown"}
+{"type":"cell","id":"70b206","pos":43,"input":" ","cell_type":"markdown"}
+{"type":"cell","id":"72bc3d","pos":9,"input":"__(Note)__ The figure file can be found under the folder for this file (see blow).","cell_type":"markdown"}
+{"type":"cell","id":"78cae0","pos":14,"input":" ","cell_type":"markdown"}
+{"type":"cell","id":"81a70d","pos":31,"input":" ","cell_type":"markdown"}
+{"type":"cell","id":"8aaef0","pos":0,"input":"# Assignment \\# 1 - Jupyter Notebook","cell_type":"markdown"}
+{"type":"cell","id":"8d9a56","pos":2,"input":"***","cell_type":"markdown"}
+{"type":"cell","id":"94c6bd","pos":18,"input":" ","cell_type":"markdown"}
+{"type":"cell","id":"96e263","pos":22,"input":" ","cell_type":"markdown"}
+{"type":"cell","id":"9aa480","pos":38,"input":" ","cell_type":"markdown"}
+{"type":"cell","id":"9f5a18","pos":1,"input":"__(Instruction)__ The purpose of this assignment is to make sure you know how to use Jupyter Notebook as a scientific coding environment for python.  Jupyter notebook provides a range of different functions for scientific documentation combined with codes.  In this assignment, a fully functioning jupyter notebook is provided as a hard copy and you will produce exactly the same jupyter notebook by filling in the cells below in this notebook. \n\n- The format of text should be exactly the same as the hard copy, including bold face, italics, headers, etc (19 pt, 1 pt for each markdown cell with formatted texts).\n\n- The format of equations should be exactly the same as the hard copy, including italics, non-italics, subscripts, superscripts, etc (19 pt; 1 pt for each equation).\n\n- The figure should be imported properly (5 pt).\n\n- The codes should work without any error (11 pt; 1 pt for each code cell).\n\n__(Due)__ 2018/1/30 9:00pm\n\n__(Where to find the hardcopy)__ It is under the same folder as this notebook.  The name is \"assignment_1-hardcopy.pdf\"","cell_type":"markdown"}
+{"type":"cell","id":"ae7dd9","pos":24,"input":" ","cell_type":"markdown"}
+{"type":"cell","id":"b1d89b","pos":33,"input":" ","cell_type":"markdown"}
+{"type":"cell","id":"b38916","pos":11,"input":" ","cell_type":"markdown"}
+{"type":"cell","id":"b8cb01","pos":47,"input":" ","cell_type":"markdown"}
+{"type":"cell","id":"bbf49e","pos":30,"input":"(text: 3 pts; code: 1 pt)","cell_type":"markdown"}
+{"type":"cell","id":"be0924","pos":29,"input":" ","cell_type":"markdown"}
+{"type":"cell","id":"ceda27","pos":41,"input":" ","cell_type":"markdown"}
+{"type":"cell","id":"d8e471","pos":39,"input":" ","cell_type":"markdown"}
+{"type":"cell","id":"e3a0f5","pos":16,"input":" ","cell_type":"markdown"}
+{"type":"cell","id":"e95fa4","pos":21,"input":"(text: 1 pt; equation: 10 pts; code 1 pt)","cell_type":"markdown"}
+{"type":"cell","id":"ea7606","pos":6,"input":" ","cell_type":"markdown"}
+{"type":"file","last_load":1516724942264}
+{"type":"settings","kernel":"anaconda3","backend_state":"running","metadata":{"language_info":{"codemirror_mode":{"name":"ipython","version":3},"file_extension":".py","mimetype":"text/x-python","name":"python","nbconvert_exporter":"python","pygments_lexer":"ipython3","version":"3.5.4"}},"trust":true,"kernel_usage":{"cpu":0,"memory":71041024},"kernel_state":"idle"}
