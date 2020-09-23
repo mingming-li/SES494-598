@@ -10,3 +10,5 @@ cost = gallons * costPerGallon
 print(time)
 print(gallons)
 print(cost)
+strname = input("prompt to user: ")
+print(strname)
