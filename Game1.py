@@ -1,5 +1,3 @@
-#The following code is from https://thehelloworldprogram.com/python/python-game-rock-paper-scissors/
-
 from random import randint
 
 #create a list of play options
@@ -12,27 +10,27 @@ computer = t[randint(0,2)]
 player = False
 
 while player == False:
-#set player to True
-    player = input("Rock, Paper, Scissors?")
+    player = input("Rock, Paper, Scissors, R, P, S")
     if player == computer:
         print("Tie!")
-    elif player == "Rock":
+    elif player == "Rock" or player == "R" or player == "r":
+        if player == "R":
+            player = "Rock"
         if computer == "Paper":
             print("You lose!", computer, "covers", player)
         else:
             print("You win!", player, "smashes", computer)
-    elif player == "Paper":
+    elif player == "Paper" or player == 'P':
         if computer == "Scissors":
             print("You lose!", computer, "cut", player)
         else:
             print("You win!", player, "covers", computer)
-    elif player == "Scissors":
+    elif player == "Scissors" or player == "S":
         if computer == "Rock":
             print("You lose...", computer, "smashes", player)
         else:
             print("You win!", player, "cut", computer)
     else:
         print("That's not a valid play. Check your spelling!")
-    #player was set to True, but we want it to be False so the loop continues
     player = False
     computer = t[randint(0,2)]
