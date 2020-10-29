@@ -11,3 +11,7 @@ def factorial(n):
     for i in range(1,n+1):
         value=value*i
     return value
+
+def tang(x):
+    import numpy as np
+    return np.sin(x)/np.cos(x)
