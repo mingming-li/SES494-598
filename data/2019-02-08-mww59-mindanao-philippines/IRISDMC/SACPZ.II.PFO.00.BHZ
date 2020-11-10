@@ -1,0 +1,41 @@
+* **********************************
+* NETWORK   (KNETWK): II
+* STATION    (KSTNM): PFO
+* LOCATION   (KHOLE): 00
+* CHANNEL   (KCMPNM): BHZ
+* CREATED           : 2019-03-07T16:32:51
+* START             : 2017-05-18T00:00:00
+* END               : 2599-12-31T23:59:59
+* DESCRIPTION       : Pinon Flat, California, USA
+* LATITUDE          : 33.610700
+* LONGITUDE         : -116.455500
+* ELEVATION         : 1280.0
+* DEPTH             : 5.3
+* DIP               : 0.0
+* AZIMUTH           : 0.0
+* SAMPLE RATE       : 20.0
+* INPUT UNIT        : M
+* OUTPUT UNIT       : COUNTS
+* INSTTYPE          : Streckeisen STS-1 Seismometer with Metrozet E300
+* INSTGAIN          : 3.608010e+03 (M/S)
+* COMMENT           : S/N 28731
+* SENSITIVITY       : 5.713060e+09 (M/S)
+* A0                : 3.124201e+01
+* **********************************
+ZEROS	6
+	+0.000000e+00	+0.000000e+00	
+	+0.000000e+00	+0.000000e+00	
+	+0.000000e+00	+0.000000e+00	
+	-1.178097e+02	+0.000000e+00	
+	-1.525042e-01	+0.000000e+00	
+	-1.525042e-01	+0.000000e+00	
+POLES	6
+	-1.210204e-02	+1.143018e-02	
+	-1.210204e-02	-1.143018e-02	
+	-1.435450e-01	+5.763145e-02	
+	-1.435450e-01	-5.763145e-02	
+	-3.518144e+01	+5.092233e+01	
+	-3.518144e+01	-5.092233e+01	
+CONSTANT	1.784875e+11
+
+

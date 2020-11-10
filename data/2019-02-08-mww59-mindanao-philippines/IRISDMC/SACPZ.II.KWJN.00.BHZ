@@ -1,0 +1,45 @@
+* **********************************
+* NETWORK   (KNETWK): II
+* STATION    (KSTNM): KWJN
+* LOCATION   (KHOLE): 00
+* CHANNEL   (KCMPNM): BHZ
+* CREATED           : 2019-03-07T16:32:49
+* START             : 2017-08-29T20:15:00
+* END               : 2599-12-31T23:59:59
+* DESCRIPTION       : Gagan, Kwajalein Atoll, Marshall Islands
+* LATITUDE          : 9.287300
+* LONGITUDE         : 167.536900
+* ELEVATION         : 0.0
+* DEPTH             : 6.0
+* DIP               : 0.0
+* AZIMUTH           : 0.0
+* SAMPLE RATE       : 40.0
+* INPUT UNIT        : M
+* OUTPUT UNIT       : COUNTS
+* INSTTYPE          : Streckeisen STS-5A Seismometer
+* INSTGAIN          : 1.488300e+03 (M/S)
+* COMMENT           : S/N 130827
+* SENSITIVITY       : 2.463400e+09 (M/S)
+* A0                : 1.125956e-04
+* **********************************
+ZEROS	9
+	+0.000000e+00	+0.000000e+00	
+	+0.000000e+00	+0.000000e+00	
+	+0.000000e+00	+0.000000e+00	
+	-1.570796e+01	+0.000000e+00	
+	-1.570796e+01	+0.000000e+00	
+	-4.806637e+02	+0.000000e+00	
+	-6.050707e+02	+0.000000e+00	
+	-5.215044e+02	-9.613274e+02	
+	-5.215044e+02	+9.613274e+02	
+POLES	7
+	-3.702405e-02	+3.702398e-02	
+	-3.702405e-02	-3.702398e-02	
+	-1.604726e+01	+0.000000e+00	
+	-1.604726e+01	+0.000000e+00	
+	-1.696460e+02	-1.734159e+02	
+	-1.696460e+02	+1.734159e+02	
+	-6.374606e+02	+0.000000e+00	
+CONSTANT	2.773680e+05
+
+

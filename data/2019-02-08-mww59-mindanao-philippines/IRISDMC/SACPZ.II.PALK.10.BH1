@@ -1,0 +1,43 @@
+* **********************************
+* NETWORK   (KNETWK): II
+* STATION    (KSTNM): PALK
+* LOCATION   (KHOLE): 10
+* CHANNEL   (KCMPNM): BH1
+* CREATED           : 2019-03-07T16:32:51
+* START             : 2017-10-18T00:00:00
+* END               : 2599-12-31T23:59:59
+* DESCRIPTION       : Pallekele, Sri Lanka
+* LATITUDE          : 7.272800
+* LONGITUDE         : 80.702200
+* ELEVATION         : 460.0
+* DEPTH             : 1.0
+* DIP               : 90.0
+* AZIMUTH           : 100.4
+* SAMPLE RATE       : 40.0
+* INPUT UNIT        : M
+* OUTPUT UNIT       : COUNTS
+* INSTTYPE          : Nanometrics Trillium 120 (Type B) Posthole BB Seis
+* INSTGAIN          : 1.198800e+03 (M/S)
+* COMMENT           : S/N 204
+* SENSITIVITY       : 2.004240e+09 (M/S)
+* A0                : 3.060483e+02
+* **********************************
+ZEROS	7
+	+0.000000e+00	+0.000000e+00	
+	+0.000000e+00	+0.000000e+00	
+	+0.000000e+00	+0.000000e+00	
+	-3.163018e+01	+0.000000e+00	
+	-3.500004e+02	+0.000000e+00	
+	-1.600001e+02	+0.000000e+00	
+	-3.177005e+03	+0.000000e+00	
+POLES	7
+	-3.661401e-02	+3.705904e-02	
+	-3.661401e-02	-3.705904e-02	
+	-3.255004e+01	+0.000000e+00	
+	-1.420000e+02	+0.000000e+00	
+	-3.640000e+02	+4.040006e+02	
+	-3.640000e+02	-4.040006e+02	
+	-1.259999e+03	+0.000000e+00	
+CONSTANT	6.133943e+11
+
+

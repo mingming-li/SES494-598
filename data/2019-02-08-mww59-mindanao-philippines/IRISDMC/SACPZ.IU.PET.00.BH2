@@ -1,0 +1,40 @@
+* **********************************
+* NETWORK   (KNETWK): IU
+* STATION    (KSTNM): PET
+* LOCATION   (KHOLE): 00
+* CHANNEL   (KCMPNM): BH2
+* CREATED           : 2019-03-07T16:32:57
+* START             : 2014-08-05T23:00:00
+* END               : 2599-12-31T23:59:59
+* DESCRIPTION       : Petropavlovsk, Russia
+* LATITUDE          : 53.023300
+* LONGITUDE         : 158.649900
+* ELEVATION         : 96.0
+* DEPTH             : 14.0
+* DIP               : 90.0
+* AZIMUTH           : 90.0
+* SAMPLE RATE       : 20.0
+* INPUT UNIT        : M
+* OUTPUT UNIT       : COUNTS
+* INSTTYPE          : Streckeisen STS-1/VBB Seismometer
+* INSTGAIN          : 2.302000e+03 (M/S)
+* COMMENT           : 
+* SENSITIVITY       : 3.862110e+09 (M/S)
+* A0                : 4.013000e+03
+* **********************************
+ZEROS	5
+	+0.000000e+00	+0.000000e+00	
+	+0.000000e+00	+0.000000e+00	
+	+0.000000e+00	+0.000000e+00	
+	-2.263790e-02	+0.000000e+00	
+	-2.263790e-02	+0.000000e+00	
+POLES	6
+	-1.064320e-02	+6.884000e-03	
+	-1.064320e-02	-6.884000e-03	
+	-2.358050e-02	+0.000000e+00	
+	-6.008860e-02	+0.000000e+00	
+	-3.918000e+01	+4.912000e+01	
+	-3.918000e+01	-4.912000e+01	
+CONSTANT	1.549865e+13
+
+

@@ -1,0 +1,44 @@
+* **********************************
+* NETWORK   (KNETWK): IU
+* STATION    (KSTNM): HRV
+* LOCATION   (KHOLE): 60
+* CHANNEL   (KCMPNM): BH1
+* CREATED           : 2019-03-07T16:32:56
+* START             : 2016-04-08T00:00:00
+* END               : 2599-12-31T23:59:59
+* DESCRIPTION       : Adam Dziewonski Observatory (Oak Ridge), Massachusetts, USA
+* LATITUDE          : 42.506400
+* LONGITUDE         : -71.558300
+* ELEVATION         : 200.0
+* DEPTH             : 0.0
+* DIP               : 90.0
+* AZIMUTH           : 0.0
+* SAMPLE RATE       : 40.0
+* INPUT UNIT        : M
+* OUTPUT UNIT       : COUNTS
+* INSTTYPE          : Streckeisen STS-6 experimental
+* INSTGAIN          : 1.200000e+03 (M/S)
+* COMMENT           : 
+* SENSITIVITY       : 5.033160e+08 (M/S)
+* A0                : 2.003520e+05
+* **********************************
+ZEROS	7
+	+0.000000e+00	+0.000000e+00	
+	-2.199110e+01	+0.000000e+00	
+	-2.199110e+01	+0.000000e+00	
+	-5.920650e+02	+0.000000e+00	
+	-5.920650e+02	+0.000000e+00	
+	+0.000000e+00	+0.000000e+00	
+	+0.000000e+00	+0.000000e+00	
+POLES	8
+	-2.239960e+01	+0.000000e+00	
+	-2.239960e+01	+0.000000e+00	
+	-5.100060e+02	+0.000000e+00	
+	-5.100060e+02	+0.000000e+00	
+	-5.100060e+02	+0.000000e+00	
+	-5.100060e+02	+0.000000e+00	
+	-1.231000e-02	+1.206000e-02	
+	-1.231000e-02	-1.206000e-02	
+CONSTANT	1.008404e+14
+
+

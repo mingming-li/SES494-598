@@ -1,0 +1,40 @@
+* **********************************
+* NETWORK   (KNETWK): IU
+* STATION    (KSTNM): LVC
+* LOCATION   (KHOLE): 00
+* CHANNEL   (KCMPNM): BHZ
+* CREATED           : 2019-03-07T16:32:56
+* START             : 2012-12-12T16:30:00
+* END               : 2599-12-31T23:59:59
+* DESCRIPTION       : Limon Verde, Chile
+* LATITUDE          : -22.612700
+* LONGITUDE         : -68.911100
+* ELEVATION         : 2930.0
+* DEPTH             : 30.0
+* DIP               : 0.0
+* AZIMUTH           : 0.0
+* SAMPLE RATE       : 20.0
+* INPUT UNIT        : M
+* OUTPUT UNIT       : COUNTS
+* INSTTYPE          : Streckeisen STS-1VBB w/E300
+* INSTGAIN          : 2.589000e+03 (M/S)
+* COMMENT           : 
+* SENSITIVITY       : 4.343620e+09 (M/S)
+* A0                : 3.947550e+03
+* **********************************
+ZEROS	5
+	+0.000000e+00	+0.000000e+00	
+	+0.000000e+00	+0.000000e+00	
+	+0.000000e+00	+0.000000e+00	
+	-2.450630e-02	+0.000000e+00	
+	-2.450630e-02	+0.000000e+00	
+POLES	6
+	-1.327040e-02	+1.234000e-02	
+	-1.327040e-02	-1.234000e-02	
+	-1.906070e-02	+0.000000e+00	
+	-2.784880e-02	+0.000000e+00	
+	-3.918000e+01	+4.912000e+01	
+	-3.918000e+01	-4.912000e+01	
+CONSTANT	1.714666e+13
+
+

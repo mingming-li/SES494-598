@@ -1,0 +1,42 @@
+* **********************************
+* NETWORK   (KNETWK): II
+* STATION    (KSTNM): WRAB
+* LOCATION   (KHOLE): 10
+* CHANNEL   (KCMPNM): BH2
+* CREATED           : 2019-03-07T16:32:52
+* START             : 2016-11-16T00:00:00
+* END               : 2599-12-31T23:59:59
+* DESCRIPTION       : Tennant Creek, NT, Australia
+* LATITUDE          : -19.933600
+* LONGITUDE         : 134.360000
+* ELEVATION         : 366.0
+* DEPTH             : 0.0
+* DIP               : 90.0
+* AZIMUTH           : 59.0
+* SAMPLE RATE       : 40.0
+* INPUT UNIT        : M
+* OUTPUT UNIT       : COUNTS
+* INSTTYPE          : Nanometrics Trillium 240 Seismometer
+* INSTGAIN          : 1.232190e+03 (M/S)
+* COMMENT           : S/N 564
+* SENSITIVITY       : 2.060060e+09 (M/S)
+* A0                : 7.400229e+04
+* **********************************
+ZEROS	6
+	+0.000000e+00	+0.000000e+00	
+	+0.000000e+00	+0.000000e+00	
+	+0.000000e+00	+0.000000e+00	
+	-4.608453e+01	+0.000000e+00	
+	-2.401496e+02	+0.000000e+00	
+	-3.206988e+03	+0.000000e+00	
+POLES	7
+	-1.768962e-02	+1.764494e-02	
+	-1.768962e-02	-1.764494e-02	
+	-4.810746e+01	+0.000000e+00	
+	-1.033427e+02	+1.519042e+02	
+	-1.033427e+02	-1.519042e+02	
+	-5.576955e+02	+1.142974e+03	
+	-5.576955e+02	-1.142974e+03	
+CONSTANT	1.524492e+14
+
+
