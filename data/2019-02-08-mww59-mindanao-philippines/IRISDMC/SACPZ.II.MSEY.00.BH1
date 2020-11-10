@@ -1,0 +1,36 @@
+* **********************************
+* NETWORK   (KNETWK): II
+* STATION    (KSTNM): MSEY
+* LOCATION   (KHOLE): 00
+* CHANNEL   (KCMPNM): BH1
+* CREATED           : 2019-03-07T16:32:50
+* START             : 2011-07-29T00:00:00
+* END               : 2599-12-31T23:59:59
+* DESCRIPTION       : Mahe, Seychelles
+* LATITUDE          : -4.673700
+* LONGITUDE         : 55.479200
+* ELEVATION         : 475.0
+* DEPTH             : 91.0
+* DIP               : 90.0
+* AZIMUTH           : 242.4
+* SAMPLE RATE       : 20.0
+* INPUT UNIT        : M
+* OUTPUT UNIT       : COUNTS
+* INSTTYPE          : Geotech KS-54000 Borehole Seismometer
+* INSTGAIN          : 2.236190e+03 (M/S)
+* COMMENT           : S/N 66
+* SENSITIVITY       : 3.717140e+09 (M/S)
+* A0                : 1.421910e+03
+* **********************************
+ZEROS	3
+	+0.000000e+00	+0.000000e+00	
+	+0.000000e+00	+0.000000e+00	
+	+0.000000e+00	+0.000000e+00	
+POLES	4
+	-4.799989e-03	+0.000000e+00	
+	-7.236596e-02	+0.000000e+00	
+	-2.866062e+01	+2.374900e+01	
+	-2.866062e+01	-2.374900e+01	
+CONSTANT	5.285438e+12
+
+

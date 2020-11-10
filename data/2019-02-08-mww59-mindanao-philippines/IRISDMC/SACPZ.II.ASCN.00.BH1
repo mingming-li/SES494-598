@@ -1,0 +1,39 @@
+* **********************************
+* NETWORK   (KNETWK): II
+* STATION    (KSTNM): ASCN
+* LOCATION   (KHOLE): 00
+* CHANNEL   (KCMPNM): BH1
+* CREATED           : 2019-03-07T16:32:47
+* START             : 2018-05-26T00:00:00
+* END               : 2599-12-31T23:59:59
+* DESCRIPTION       : Butt Crater, Ascension Island
+* LATITUDE          : -7.932700
+* LONGITUDE         : -14.360100
+* ELEVATION         : 173.0
+* DEPTH             : 100.0
+* DIP               : 90.0
+* AZIMUTH           : 357.8
+* SAMPLE RATE       : 20.0
+* INPUT UNIT        : M
+* OUTPUT UNIT       : COUNTS
+* INSTTYPE          : Geotech KS-54000 Borehole Seismometer
+* INSTGAIN          : 2.092800e+03 (M/S)
+* COMMENT           : S/N 19
+* SENSITIVITY       : 3.478790e+09 (M/S)
+* A0                : 7.020342e+04
+* **********************************
+ZEROS	4
+	+0.000000e+00	+0.000000e+00	
+	+0.000000e+00	+0.000000e+00	
+	+0.000000e+00	+0.000000e+00	
+	+0.000000e+00	+0.000000e+00	
+POLES	6
+	-4.222326e-03	+0.000000e+00	
+	-4.248935e-03	+0.000000e+00	
+	-7.068206e-02	+0.000000e+00	
+	-2.507714e+01	+2.559430e+01	
+	-2.507714e+01	-2.559430e+01	
+	-5.333450e+01	+0.000000e+00	
+CONSTANT	2.442230e+14
+
+

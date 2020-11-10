@@ -1,0 +1,36 @@
+* **********************************
+* NETWORK   (KNETWK): II
+* STATION    (KSTNM): BFO
+* LOCATION   (KHOLE): 00
+* CHANNEL   (KCMPNM): BHZ
+* CREATED           : 2019-03-07T16:32:48
+* START             : 2012-06-21T14:30:00
+* END               : 2599-12-31T23:59:59
+* DESCRIPTION       : Black Forest Observatory, Schiltach, Germany
+* LATITUDE          : 48.330100
+* LONGITUDE         : 8.329600
+* ELEVATION         : 589.0
+* DEPTH             : 0.0
+* DIP               : 0.0
+* AZIMUTH           : 0.0
+* SAMPLE RATE       : 20.0
+* INPUT UNIT        : M
+* OUTPUT UNIT       : COUNTS
+* INSTTYPE          : Streckeisen STS-1V/VBB Seismometer
+* INSTGAIN          : 2.419660e+03 (M/S)
+* COMMENT           : S/N 28740
+* SENSITIVITY       : 3.830240e+09 (M/S)
+* A0                : 3.795167e+03
+* **********************************
+ZEROS	3
+	+0.000000e+00	+0.000000e+00	
+	+0.000000e+00	+0.000000e+00	
+	+0.000000e+00	+0.000000e+00	
+POLES	4
+	-3.942391e+01	+4.733180e+01	
+	-3.942391e+01	-4.733180e+01	
+	-1.258522e-02	+1.192549e-02	
+	-1.258522e-02	-1.192549e-02	
+CONSTANT	1.453640e+13
+
+

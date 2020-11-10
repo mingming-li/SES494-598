@@ -1,0 +1,42 @@
+* **********************************
+* NETWORK   (KNETWK): II
+* STATION    (KSTNM): SHEL
+* LOCATION   (KHOLE): 10
+* CHANNEL   (KCMPNM): BH1
+* CREATED           : 2019-03-07T16:32:52
+* START             : 2017-09-16T00:00:00
+* END               : 2599-12-31T23:59:59
+* DESCRIPTION       : Horse Pasture, St. Helena Island
+* LATITUDE          : -15.959400
+* LONGITUDE         : -5.745500
+* ELEVATION         : 537.0
+* DEPTH             : 5.8
+* DIP               : 90.0
+* AZIMUTH           : 357.0
+* SAMPLE RATE       : 40.0
+* INPUT UNIT        : M
+* OUTPUT UNIT       : COUNTS
+* INSTTYPE          : Nanometrics Trillium 120 (Type A) Posthole BB Seis
+* INSTGAIN          : 1.223020e+03 (M/S)
+* COMMENT           : S/N 10
+* SENSITIVITY       : 2.044740e+09 (M/S)
+* A0                : 2.774393e+04
+* **********************************
+ZEROS	6
+	+0.000000e+00	+0.000000e+00	
+	+0.000000e+00	+0.000000e+00	
+	+0.000000e+00	+0.000000e+00	
+	-8.999092e+01	+0.000000e+00	
+	-1.606843e+02	+0.000000e+00	
+	-3.107695e+03	+0.000000e+00	
+POLES	7
+	-3.838385e-02	+3.657071e-02	
+	-3.838385e-02	-3.657071e-02	
+	-1.256637e+02	+0.000000e+00	
+	-8.025890e+01	+1.060080e+02	
+	-8.025890e+01	-1.060080e+02	
+	-4.767870e+02	+5.769447e+02	
+	-4.767870e+02	-5.769447e+02	
+CONSTANT	5.672913e+13
+
+

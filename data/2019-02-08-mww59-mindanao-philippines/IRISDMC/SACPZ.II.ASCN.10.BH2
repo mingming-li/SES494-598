@@ -1,0 +1,42 @@
+* **********************************
+* NETWORK   (KNETWK): II
+* STATION    (KSTNM): ASCN
+* LOCATION   (KHOLE): 10
+* CHANNEL   (KCMPNM): BH2
+* CREATED           : 2019-03-07T16:32:47
+* START             : 2017-05-19T00:00:00
+* END               : 2599-12-31T23:59:59
+* DESCRIPTION       : Butt Crater, Ascension Island
+* LATITUDE          : -7.932700
+* LONGITUDE         : -14.360100
+* ELEVATION         : 173.0
+* DEPTH             : 6.0
+* DIP               : 90.0
+* AZIMUTH           : 58.5
+* SAMPLE RATE       : 40.0
+* INPUT UNIT        : M
+* OUTPUT UNIT       : COUNTS
+* INSTTYPE          : Nanometrics Trillium 120 (Type A) Posthole BB Seis
+* INSTGAIN          : 1.192800e+03 (M/S)
+* COMMENT           : S/N 8
+* SENSITIVITY       : 1.994210e+09 (M/S)
+* A0                : 3.345591e+05
+* **********************************
+ZEROS	6
+	+0.000000e+00	+0.000000e+00	
+	+0.000000e+00	+0.000000e+00	
+	+0.000000e+00	+0.000000e+00	
+	-7.940375e+01	+0.000000e+00	
+	-1.604788e+02	+0.000000e+00	
+	-3.103718e+03	+0.000000e+00	
+POLES	7
+	-3.851618e-02	+3.659032e-02	
+	-3.851618e-02	-3.659032e-02	
+	-1.413717e+02	+0.000000e+00	
+	-9.224282e+01	+1.391782e+02	
+	-9.224282e+01	-1.391782e+02	
+	-6.023068e+02	+1.728617e+03	
+	-6.023068e+02	-1.728617e+03	
+CONSTANT	6.671810e+14
+
+

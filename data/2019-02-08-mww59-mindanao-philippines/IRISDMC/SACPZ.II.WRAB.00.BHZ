@@ -1,0 +1,37 @@
+* **********************************
+* NETWORK   (KNETWK): II
+* STATION    (KSTNM): WRAB
+* LOCATION   (KHOLE): 00
+* CHANNEL   (KCMPNM): BHZ
+* CREATED           : 2019-03-07T16:32:52
+* START             : 2016-11-16T00:00:00
+* END               : 2599-12-31T23:59:59
+* DESCRIPTION       : Tennant Creek, NT, Australia
+* LATITUDE          : -19.933600
+* LONGITUDE         : 134.360000
+* ELEVATION         : 366.0
+* DEPTH             : 100.0
+* DIP               : 0.0
+* AZIMUTH           : 0.0
+* SAMPLE RATE       : 20.0
+* INPUT UNIT        : M
+* OUTPUT UNIT       : COUNTS
+* INSTTYPE          : Geotech KS-54000 Borehole Seismometer
+* INSTGAIN          : 2.383500e+03 (M/S)
+* COMMENT           : S/N 31
+* SENSITIVITY       : 3.967910e+09 (M/S)
+* A0                : 7.416429e+04
+* **********************************
+ZEROS	3
+	+0.000000e+00	+0.000000e+00	
+	+0.000000e+00	+0.000000e+00	
+	+0.000000e+00	+0.000000e+00	
+POLES	5
+	-4.799989e-03	+0.000000e+00	
+	-7.319911e-02	+0.000000e+00	
+	-2.321492e+01	+2.603991e+01	
+	-2.321492e+01	-2.603991e+01	
+	-5.934293e+01	+0.000000e+00	
+CONSTANT	2.942772e+14
+
+
