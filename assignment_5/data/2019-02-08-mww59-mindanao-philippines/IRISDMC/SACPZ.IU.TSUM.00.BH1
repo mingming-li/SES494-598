@@ -1,0 +1,40 @@
+* **********************************
+* NETWORK   (KNETWK): IU
+* STATION    (KSTNM): TSUM
+* LOCATION   (KHOLE): 00
+* CHANNEL   (KCMPNM): BH1
+* CREATED           : 2019-03-07T16:33:00
+* START             : 2015-09-03T12:00:00
+* END               : 2599-12-31T23:59:59
+* DESCRIPTION       : Tsumeb, Namibia
+* LATITUDE          : -19.202200
+* LONGITUDE         : 17.583800
+* ELEVATION         : 1260.0
+* DEPTH             : 0.0
+* DIP               : 90.0
+* AZIMUTH           : 0.0
+* SAMPLE RATE       : 20.0
+* INPUT UNIT        : M
+* OUTPUT UNIT       : COUNTS
+* INSTTYPE          : Streckeisen STS-1VBB w/E300
+* INSTGAIN          : 1.956000e+03 (M/S)
+* COMMENT           : 
+* SENSITIVITY       : 3.281620e+09 (M/S)
+* A0                : 3.949250e+03
+* **********************************
+ZEROS	5
+	+0.000000e+00	+0.000000e+00	
+	+0.000000e+00	+0.000000e+00	
+	+0.000000e+00	+0.000000e+00	
+	-1.345270e-02	+0.000000e+00	
+	-1.345270e-02	+0.000000e+00	
+POLES	6
+	-1.236500e-02	+1.234000e-02	
+	-1.236500e-02	-1.234000e-02	
+	-7.896400e-03	+0.000000e+00	
+	-1.921280e-02	+0.000000e+00	
+	-3.918000e+01	+4.912000e+01	
+	-3.918000e+01	-4.912000e+01	
+CONSTANT	1.295994e+13
+
+

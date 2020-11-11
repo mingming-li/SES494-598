@@ -1,0 +1,42 @@
+* **********************************
+* NETWORK   (KNETWK): II
+* STATION    (KSTNM): MSEY
+* LOCATION   (KHOLE): 10
+* CHANNEL   (KCMPNM): BH1
+* CREATED           : 2019-03-07T16:32:51
+* START             : 2016-03-06T16:00:00
+* END               : 2599-12-31T23:59:59
+* DESCRIPTION       : Mahe, Seychelles
+* LATITUDE          : -4.673700
+* LONGITUDE         : 55.479200
+* ELEVATION         : 475.0
+* DEPTH             : 6.0
+* DIP               : 90.0
+* AZIMUTH           : 165.4
+* SAMPLE RATE       : 40.0
+* INPUT UNIT        : M
+* OUTPUT UNIT       : COUNTS
+* INSTTYPE          : Nanometrics Trillium 120 (Type A) Posthole BB Seis
+* INSTGAIN          : 1.180490e+03 (M/S)
+* COMMENT           : S/N 009
+* SENSITIVITY       : 1.973620e+09 (M/S)
+* A0                : 5.569733e+04
+* **********************************
+ZEROS	6
+	+0.000000e+00	+0.000000e+00	
+	+0.000000e+00	+0.000000e+00	
+	+0.000000e+00	+0.000000e+00	
+	-1.107053e+02	+0.000000e+00	
+	-2.407063e+02	+0.000000e+00	
+	-3.103718e+03	+0.000000e+00	
+POLES	7
+	-3.851618e-02	+3.659032e-02	
+	-3.851618e-02	-3.659032e-02	
+	-1.413717e+02	+0.000000e+00	
+	-6.740915e+01	+1.172951e+02	
+	-6.740915e+01	-1.172951e+02	
+	-6.700766e+02	+1.152412e+03	
+	-6.700766e+02	-1.152412e+03	
+CONSTANT	1.099254e+14
+
+

@@ -1,0 +1,37 @@
+* **********************************
+* NETWORK   (KNETWK): CU
+* STATION    (KSTNM): BBGH
+* LOCATION   (KHOLE): 00
+* CHANNEL   (KCMPNM): BH2
+* CREATED           : 2019-03-07T16:32:46
+* START             : 2018-03-04T00:00:00
+* END               : 2599-12-31T23:59:59
+* DESCRIPTION       : Gun Hill, Barbados
+* LATITUDE          : 13.143400
+* LONGITUDE         : -59.558800
+* ELEVATION         : 180.0
+* DEPTH             : 0.0
+* DIP               : 90.0
+* AZIMUTH           : 90.0
+* SAMPLE RATE       : 40.0
+* INPUT UNIT        : M
+* OUTPUT UNIT       : COUNTS
+* INSTTYPE          : Streckeisen STS-2 Standard-gain
+* INSTGAIN          : 1.468000e+03 (M/S)
+* COMMENT           : 
+* SENSITIVITY       : 2.436090e+09 (M/S)
+* A0                : 4.853940e+07
+* **********************************
+ZEROS	3
+	+0.000000e+00	+0.000000e+00	
+	+0.000000e+00	+0.000000e+00	
+	+0.000000e+00	+0.000000e+00	
+POLES	5
+	-3.702370e-02	+3.702440e-02	
+	-3.702370e-02	-3.702440e-02	
+	-2.513270e+02	+0.000000e+00	
+	-1.186340e+02	+4.230650e+02	
+	-1.186340e+02	-4.230650e+02	
+CONSTANT	1.182463e+17
+
+
